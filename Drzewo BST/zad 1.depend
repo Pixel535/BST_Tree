@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621593304 source:d:\mati\moje programy\zad 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1621593709 source:d:\mati\moje programy\drzewo bst\main.c
+	<stdio.h>
+	<stdlib.h>
+
